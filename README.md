@@ -1,3 +1,3 @@
 # hello-world
 bienvenidos a hello world
-Hola me llamo Emiliano Galarza es un placer conocerlos y estar entrando en este mundo nuevo de la tecnologia tengo 27 años y me gusta mucho programar y aprender dia a dia nuevas maneras de manejarme como programador les mando un gran abrazo desde Argentina Buenos Aires !!
+Hola Me llamo Emiliano Galarza tengo 27 años y estoy muy contento y orgulloso de poder aprender y entrenarme en este mundo nuevo de la tecnologia dia a dia estoy aprendiendo nuevas maneras de manejarme como programador les mando un gran abrazo desde Argentina Buenos Aires !!
